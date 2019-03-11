@@ -3,10 +3,14 @@
 ## Installation
 
 ```
-    cd [project directory]
+    git clone https://github.com/r21meghashyam/signzy-backend-assigment.git singzy-backend-assignment
+    cd singzy-backend-assignment
     npm install
 ```
 ## Usage
+
+    npm start
+
 Sample request:
 
 |   POST http://localhost:3000/api
@@ -22,6 +26,8 @@ Sample request:
     }
 ```
 
+Postman link:
+    https://www.getpostman.com/collections/10c97643e4c93d65b545
 
 ## Contact
     Phone: 8660852458
